@@ -272,14 +272,6 @@ Possible extensions for this project include:
 
 ---
 
-## 👥 Team
-
-* **Baraa Alsaker**
-* **Abdurahman Ghannam**
-* **Abdulelah Sami**
-
----
-
 ## 🎓 Course Information
 
 **CS351 – Fundamentals of Database Systems**
