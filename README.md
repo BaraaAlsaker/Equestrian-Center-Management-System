@@ -83,7 +83,6 @@ equestrian-center-management-system/
 │   ├── gui-horses.png
 │   └── gui-lessons.png
 │
-├── requirements.txt
 └── README.md
 ```
 
@@ -158,11 +157,6 @@ cd Equestrian-Center-Management-System
 
 ### 2️⃣ Install the required package
 
-```bash
-pip install -r requirements.txt
-```
-
-If you do not use `requirements.txt`, install manually:
 
 ```bash
 pip install mysql-connector-python
